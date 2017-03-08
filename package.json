@@ -25,7 +25,7 @@
   "homepage": "https://github.com/zkat/can.bacon",
   "dependencies": {
     "canjs": "~2",
-    "baconjs": "^0.7.13",
+    "baconjs": "^0.7.91",
     "can.eventstream": "^0.2.0"
   },
   "devDependencies": {
