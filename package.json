@@ -38,6 +38,6 @@
     "transform-loader": "^0.2.0",
     "bacon-browser": "0.0.5",
     "es6ify": "1.6.0",
-    "jquery": "^3.1.1"
+    "jquery": "^3.2.1"
   }
 }
